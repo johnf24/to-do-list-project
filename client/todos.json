@@ -1,0 +1,26 @@
+[
+    {
+        "description" : "Get Groceries",
+        "tags"  : [ "shopping", "chores" ]
+    },
+    {
+        "description" : "Walk Dog",
+        "tags"  : [ "chores", "pets" ]
+    },
+    {
+        "description" : "Read Book",
+        "tags"  : [ "work", "reading" ]
+    },
+    {
+        "description" : "Answer Emails",
+        "tags"  : [ "work" ]
+    },
+    {
+        "description" : "Exersice",
+        "tags"  : [ "chores", "fitness" ]
+    },
+    {
+        "description" : "Finish Writing Article",
+        "tags"  : [ "writing", "work" ]
+    }
+]

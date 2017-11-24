@@ -1,0 +1,8 @@
+{
+    "name": "to do's",
+    "description": "todo list app",
+    "version": "0.0.1",
+    "dependencies": {
+	"mongoose": "3.6.x"
+    }
+}
